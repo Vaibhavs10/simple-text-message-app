@@ -19,7 +19,7 @@ def textmessage(message, no):
 
 # In[3]:
 
-message = "Hey buddy your work's done! \n Have a nice day :)"
+message = "Hey buddy your work's done! Have a nice day :)"
 
 
 # In[4]:
