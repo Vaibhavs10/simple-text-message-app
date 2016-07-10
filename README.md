@@ -1,6 +1,6 @@
 # Simple Message Notification App
 ___
-It is a very simple yet useful implementation of the [Twilio]: https://www.twilio.com/
+It is a very simple yet useful implementation of the [Twilio](https://www.twilio.com/)
 
 Twilio helps you in building apps that communicate with the world via voice, video and messaging.
 
