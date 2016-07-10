@@ -13,7 +13,7 @@ twilio_number = '****'
 from twilio.rest import TwilioRestClient
 
 def textmessage(message, no):
-    twilioCli = TwilioRestClient(accountSID, authToken)T
+    twilioCli = TwilioRestClient(accountSID, authToken)
     twilioCli.messages.create(body = message, from_ = twilio_number, to = no)
 
 
